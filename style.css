@@ -35,7 +35,7 @@ body {
 
 @media (orientation: portrait) {
     .button {
-        margin-top: 55vh; 
-        padding: 5% 10%;
+        margin-top: 45vh; 
+        padding: 7% 14%;
     }
 }
