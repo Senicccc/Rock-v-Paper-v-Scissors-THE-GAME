@@ -1,3 +1,4 @@
+/*padahal window.addeventlistener supaya pas lagi prompt, html css udah ke load tapi apa boleh buat kalo lewat github preview (totally my fault, sorry) */
 window.addEventListener('load', function() {
     function startGame() {
         var ulang = true;
